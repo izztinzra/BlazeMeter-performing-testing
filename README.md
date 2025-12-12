@@ -28,3 +28,7 @@ Based on the test results, these improvements are recommended:
 6. Optimize images and static files, since bandwidth usage is high.
 
 These steps will help ensure the website can handle peak traffic and maintain stable performance.
+
+**Project Documentation**
+1. YouTube Video Demonstation: https://youtu.be/YDs14MfJCYw
+2. Final Report: [Individual Assignment_NurIzzatiNazira_2023673506docx.pdf](https://url-shortener.me/329X)
